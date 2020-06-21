@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "therealpainting",
     "public": "public",
     "ignore": [
       "firebase.json",
